@@ -1,7 +1,7 @@
 {
   "name" : "discordbot",
   "token" : "TOKEN",
-  "commandPrefix" : "/",
+  "inviteCode" : "abc123",
   "mainGuildId" : "789578052924866590",
   "logChannelId" : "789578054548193281",
   "botChannelId" : "789578053986287644",
