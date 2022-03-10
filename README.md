@@ -1,1 +1,1 @@
-# snet-core-issues
+# snet-core
