@@ -1,0 +1,9 @@
+{
+  "name" : "eventStatistics",
+  "key" : "eventstats_idk",
+  "end" : -1,
+  "start" : -1,
+  "hide" : true,
+  "active" : false,
+  "mainWin" : "----"
+}

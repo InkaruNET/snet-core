@@ -1,0 +1,9 @@
+{
+  "name" : "lobby",
+  "dailyReward" : {
+    "states" : 7
+  },
+  "disabledGadgets" : [
+    "Rainbow"
+  ]
+}

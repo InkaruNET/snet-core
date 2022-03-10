@@ -1,0 +1,12 @@
+{
+  "name" : "tablist",
+  "delay" : 75,
+  "animation" : true,
+  "tabBanner" : "",
+  "header" : [
+    " \n§7•§8● %nnwc% §8●§7•\n%motto%\n\n §7Spieler §8➜ %c1%%online_players%§8/%c1%50\n §8► §7Aktueller Server §8● %c1%%server% §8◄§f \n "
+  ],
+  "footer" : [
+    " \n §7Discord §8» §7https://discord.inkaru.net/ \n §7Neues §8➜ %c1%/level\n"
+  ]
+}

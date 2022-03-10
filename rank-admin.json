@@ -1,0 +1,16 @@
+{
+  "name" : "Administrator",
+  "chatPrefix" : "§4Administrator §8● §4",
+  "tabPrefix" : "§4Admin §8● §4",
+  "sort" : 100,
+  "discordRoleId" : "789578052996169773",
+  "teamSpeakGroupId" : 309,
+  "forumGroupId" : 2,
+  "colorDecimal" : "11141120",
+  "rawChatColor" : "DARK_RED",
+  "rgb" : [
+    "170",
+    "0",
+    "0"
+  ]
+}

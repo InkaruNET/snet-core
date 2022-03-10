@@ -1,0 +1,16 @@
+{
+  "name" : "Spieler",
+  "chatPrefix" : "§7Spieler §8● §7",
+  "tabPrefix" : "§7Spieler §8● §7",
+  "sort" : 200,
+  "discordRoleId" : "789578052954619973",
+  "teamSpeakGroupId" : 320,
+  "forumGroupId" : 1,
+  "colorDecimal" : "11184810",
+  "rawChatColor" : "GRAY",
+  "rgb" : [
+    "85",
+    "85",
+    "85"
+  ]
+}

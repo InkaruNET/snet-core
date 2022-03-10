@@ -1,0 +1,7 @@
+{
+  "name" : "maintenance",
+  "active" : false,
+  "endDate" : 1643557206305,
+  "reason" : "Kurzes Update",
+  "closeMode" : true
+}

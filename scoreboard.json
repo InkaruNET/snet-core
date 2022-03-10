@@ -1,0 +1,9 @@
+{
+  "name" : "animatedScoreboard",
+  "updateDelay" : 2,
+  "stayDelay" : 40,
+  "arrow" : "➜",
+  "placeholder" : "§8§m-------",
+  "keyPrefix" : "§7●§8▐ ",
+  "valuePrefix" : "§8  ➥ "
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "news",
+  "importantNews" : [
+    "Bugs könnt ihr auf unserem Discord melden!",
+    "Lasst doch einen Like auf NameMC da:\nhttps://namemc.com/server/inkaru.net",
+    "&7Wir suchen aktuell noch %c1%Devs&7, %c1%Builders&7, %c1%Contents!&7 Bewerben könnt ihr euch im Forum"
+  ],
+  "normalNews" : [
+    "Bugs könnt ihr auf unserem Discord melden!",
+    "Vorschläge könnt ihr auf unserem Discord einbringen!"
+  ]
+}

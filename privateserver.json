@@ -1,0 +1,5 @@
+{
+  "name" : "privateserver",
+  "lobbyService" : "Lobby",
+  "serverGroup" : "PS"
+}

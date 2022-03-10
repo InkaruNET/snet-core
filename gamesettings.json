@@ -1,0 +1,11 @@
+{
+  "name" : "gameSettings",
+  "Lobby" : {
+    "serverGroup" : "Lobby",
+    "game" : "LOBBY"
+  },
+  "Banned" : {
+    "serverGroup" : "Banned",
+    "game" : "BANNED"
+  }
+}

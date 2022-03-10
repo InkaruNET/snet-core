@@ -1,0 +1,33 @@
+{
+  "name" : "language",
+  "languages" : {
+    "1" : {
+      "name" : "Deutsch",
+      "headUrl" : "http://textures.minecraft.net/texture/5e7899b4806858697e283f084d9173fe487886453774626b24bd8cfecc77b3f"
+    },
+    "2" : {
+      "name" : "English",
+      "headUrl" : "http://textures.minecraft.net/texture/879d99d9c46474e2713a7e84a95e4ce7e8ff8ea4d164413a592e4435d2c6f9dc"
+    }
+  },
+  "messages" : {
+    "1" : {},
+    "2" : {}
+  },
+  "titles" : {
+    "1" : {},
+    "2" : {}
+  },
+  "actionbars" : {
+    "1" : {},
+    "2" : {}
+  },
+  "scoreboardLines" : {
+    "1" : {},
+    "2" : {}
+  },
+  "textValues" : {
+    "1" : {},
+    "2" : {}
+  }
+}

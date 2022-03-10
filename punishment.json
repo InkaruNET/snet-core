@@ -1,0 +1,71 @@
+{"name" : "punishment",
+  "group" : "Banned",
+  "templates" : {
+    "1" : {
+      "name" : "Hacking/Clientmods",
+      "material" : "IRON_SWORD",
+      "type" : "BAN",
+      "time" : 2592000000
+    },
+    "2" : {
+      "name" : "Leichtes Chatvergehen",
+      "material" : "COAL",
+      "type" : "MUTE",
+      "time" : 86400000
+    },
+    "3" : {
+      "name" : "Mittleres Chatvergehen",
+      "material" : "CHEST",
+      "type" : "MUTE",
+      "time" : 604800000
+    },
+    "4" : {
+      "name" : "Schweres Chatvergehen",
+      "material" : "EGG",
+      "type" : "MUTE",
+      "time" : 2592000000
+    },
+    "5" : {
+      "name" : "Report Missbrauch",
+      "material" : "TORCH",
+      "type" : "BAN",
+      "time" : 86400000
+    },
+    "6" : {
+      "name" : "Stats-Pushing",
+      "material" : "GOLD_INGOT",
+      "type" : "BAN",
+      "time" : 2592000000
+    },
+    "7" : {
+      "name" : "Skin/Name/Cape",
+      "material" : "SKELETON_SKULL",
+      "type" : "BAN",
+      "time" : 2592000000
+    },
+    "8" : {
+      "name" : "Teaming",
+      "material" : "WHITE_BED",
+      "type" : "BAN",
+      "time" : 604800000
+    },
+    "9" : {
+      "name" : "Bugusing",
+      "material" : "COMMAND_BLOCK",
+      "type" : "BAN",
+      "time" : 604800000
+    },
+    "10" : {
+      "name" : "Bannumgehung",
+      "material" : "ARROW",
+      "type" : "BAN",
+      "time" : -1
+    },
+    "11" : {
+      "name" : "Virtuelles Hausverbot",
+      "material" : "DIAMOND_CHESTPLATE",
+      "type" : "BAN",
+      "time" : -1
+    }
+  }
+}

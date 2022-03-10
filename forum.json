@@ -1,0 +1,7 @@
+{
+  "name" : "forum",
+  "url" : "inkaru.net",
+  "key" : "namelesskey",
+  "debug" : false,
+  "active": false
+}

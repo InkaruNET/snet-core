@@ -1,0 +1,185 @@
+{
+  "name" : "marioparty",
+  "fields" : [
+    {
+      "id" : 0,
+      "type" : "START"
+    },
+    {
+      "id" : 1,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 2,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 3,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 4,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 5,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 6,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 7,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 8,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 9,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 10,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 11,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 12,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 13,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 14,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 15,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 16,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 17,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 18,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 19,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 20,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 21,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 22,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 23,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 24,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 25,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 26,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 27,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 28,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 29,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 30,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 31,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 32,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 33,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 34,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 35,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 36,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 37,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 38,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 39,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 40,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 41,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 42,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 43,
+      "type" : "NORMAL"
+    },
+    {
+      "id" : 44,
+      "type" : "END"
+    }
+  ]
+}
