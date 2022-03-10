@@ -5,5 +5,12 @@
   },
   "disabledGadgets" : [
     "Rainbow"
-  ]
+  ],
+  "jumpandrun" : {
+    "y" : 120,
+    "x1" : 159,
+    "x2" : 300,
+    "z1" : 189,
+    "z2" : 371
+  }
 }
