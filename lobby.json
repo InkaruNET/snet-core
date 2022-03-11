@@ -6,7 +6,7 @@
   "disabledGadgets" : [
     "Rainbow"
   ],
-  "jumpandrun" : {
+  "jumpAndRun" : {
     "y" : 120,
     "x1" : 159,
     "x2" : 300,
