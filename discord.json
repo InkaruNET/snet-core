@@ -6,6 +6,7 @@
   "logChannelId" : "789578054548193281",
   "botChannelId" : "789578053986287644",
   "lobbyChannelId" : "789578053550473280",
+  "lobbyMessages" : false,
   "emotes" : {
     "arrowRight" : "860968416906706944",
     "arrowDown" : "860968416953106461",
@@ -16,37 +17,50 @@
     "reportChannelId" : "789578054548193283",
     "punishmentChannelId" : "885888860352045066"
   },
+  "logJoinMes" : false,
+  "logReports" : false,
+  "logPunishments" : false,
   "modules" : {
     "rules" : {
+      "enabled" : false,
       "acceptMessageId" : "789784625689133078",
       "acceptEmoteName" : "✅",
       "rulesRole" : "789578052946493459",
       "acceptMessageChannelId" : "789578053550473282"
     },
     "roleManagement" : {
+      "enabled" : false,
       "channelId" : "789578053550473285"
     },
     "autoSupport" : {
+      "enabled" : false,
       "channelId" : "812991996594618388"
     },
     "punishment" : {
+      "enabled" : false,
       "muteRoleId" : "789578052996169771"
     },
     "verification" : {
+      "enabled" : false,
       "channelId" : "789578053550473281",
       "roleId" : "789578052954619964"
     },
     "bugreport" : {
+      "enabled" : false,
       "channelId" : "860965869257883669"
     },
     "suggestions" : {
+      "enabled" : false,
       "channelId" : "860965898290069544"
     },
     "dayNightChat" : {
+      "enabled" : false,
+      "defaultChannelId" : "789578053986287641",
       "dayChatChannelId" : "789578053986287640",
       "nightChatChannelId" : "867500446088298536"
     },
     "discussion" : {
+      "enabled" : false,
       "topics" : {
         "01" : "Wer ist euer Lieblings Youtber auf Inkaru?",
         "02" : "Was ist euer Lieblingsmodus auf Inkaru?",
@@ -71,9 +85,23 @@
       }
     },
     "ticket" : {
+      "enabled" : false,
       "channelId" : "880164107280613386",
       "openCategoryId" : "880164450714411008",
       "closedCategoryId" : "928734183067619438"
+    },
+    "chatFilter" : {
+      "enabled" : false
+    },
+    "playersInfo" : {
+      "enabled" : false,
+      "blackListedGroups" : [
+        "BuildServer",
+        "Lobby"
+      ],
+      "minOnlineCount" : 4,
+      "notifyDelay" : 30,
+      "notifyMessageDeleteDelay" : 10
     }
   },
   "registeredCommands" : {}
