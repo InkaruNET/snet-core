@@ -1,6 +1,10 @@
 {
   "name" : "motd",
-  "favicon" : "https://save.suqatri.net/inkarunet/logo-server-icon.png",
+  "enabled" : true,
+  "favicon" : {
+    "enabled" : false,
+    "url" : "https://save.suqatri.net/inkarunet/logo-server-icon.png"
+  },
   "motds" : {
     "first" : [
       "§7•§8● %c1%Inkaru%c2%NET §8» §7We %c1%develop, §7you %c2%play §b§l§7× §8[%c1%✓§8]"
@@ -16,5 +20,7 @@
         "    §8➜ %c1%Inkaru 2.0 §8● §7%time%"
       ]
     }
-  }
+  },
+  "playersInfo" : true,
+  "playerCountAsVersionProtocol" : true
 }
